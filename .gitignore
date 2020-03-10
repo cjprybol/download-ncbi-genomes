@@ -1,3 +1,5 @@
 *.gz
 *.fna
 *.fasta
+*.listing
+*assembly_summary_refseq.txt
