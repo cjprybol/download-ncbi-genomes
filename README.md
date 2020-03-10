@@ -1,4 +1,4 @@
-# download-refseq
+# download-ncbi-databases
 
 ```bash
 mkdir refseq-genomes
