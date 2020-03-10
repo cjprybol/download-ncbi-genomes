@@ -41,3 +41,6 @@ $ grep -v "#" assembly_summary_refseq.txt | awk '{FS="\t"}{print $14}' | sort | 
  164679 Full
     348 Partial
 ```
+
+I manually reviewed what was in the `nt` database and it had lots of mRNA and other things I wasn't interested in
+[Blast databases](https://ftp.ncbi.nlm.nih.gov/blast/db/README)
