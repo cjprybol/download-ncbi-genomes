@@ -3,3 +3,4 @@
 *.fasta
 *.listing
 *assembly_summary_refseq.txt
+*.ipynb_checkpoints
