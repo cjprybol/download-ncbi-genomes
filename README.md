@@ -1,11 +1,6 @@
-# download-refseq-genomes
+# download-ncbi-genomes
 
-```bash
-mkdir refseq-genomes
-cd refseq-genomes
-# this will download directly into the working directory
-bash ../download-refseq-genomes.sh
-```
+has notebooks for downloading refseq and genbank genomes. Mainly because I wanted to build a high quality metagenomic reference database, and it seems like genbank without the metagenomes is the best way to go.
 
 ```
 # most are not reference or representative, but some are
